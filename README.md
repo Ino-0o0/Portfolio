@@ -3,7 +3,7 @@
 This is my personal portfolio website built using HTML and CSS. It showcases my skills, interests, and experience as a Computer Science student.
 
 ## Live Website
-https://ino-0o0.github.io/portfolio/
+https://ino-0o0.github.io/Portfolio/
 
 ## Sections
 - Home
